@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RerfAlfJl7cDTXUDdQp1bGy3RLw2cSp/kJ6mPi1tzB/eIIZ2Uuh7YX3U9eF1H/MrakJy/fcWxe6aNFARmIqAbA==",
+  "success": true,
+  "projectFilePath": "C:\\VSCodeProjects\\pixelMapGenerator\\pixelMapGenerator\\pixelMapGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lobac\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\lobac\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\lobac\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
